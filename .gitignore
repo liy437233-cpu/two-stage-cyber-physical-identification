@@ -1,0 +1,24 @@
+# MATLAB editor and recovery files
+*.asv
+*.autosave
+*.m~
+
+# MATLAB binary, figure, and model artifacts
+*.mat
+*.fig
+*.slx
+*.mdl
+*.mex*
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# MATLAB cache directories
+codegen/
+slprj/
+work/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
